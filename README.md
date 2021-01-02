@@ -8,16 +8,16 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/riyhs_/)](https://instagram.com/riyhs_)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=riyhs.riyhs)
 
-I'm **Riyaldi Hasan Setiawan**, **Software Engineering Student** at SMK Muhammadiyah 1 Sukoharjo, interested about Programming, deeply in **Android Development & Competitive Programming**, more about me in **[riyaldi.com](https://riyaldi.com/)**
+**I'm Riyaldi Hasan Setiawan, Software Engineering Student at SMK Muhammadiyah 1 Sukoharjo, interested about Programming, deeply in Android Development & Competitive Programming, more about me in [riyaldi.com](https://riyaldi.com/)**
 
 &nbsp;
 
-**Talking about Personal Stuffs:**
+### Talking about Personal Stuffs:
 
-- 🌱 I’m currently learning Android Development | Kotlin & Competitive Programming | Kotlin; 
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [E-Mail](mailto:riyaldi.dev@gmail.com) | [Telegram](https://t.me/riyhs);
-- 💻 More about me in [riyaldi.com](https://riyaldi.com/)
+- 🌱 **I’m currently learning Android Development | Kotlin & Competitive Programming | Kotlin;** 
+- 💬 **Ask me about anything, I am happy to help;**
+- 📫 **How to reach me: [E-Mail](mailto:riyaldi.dev@gmail.com) | [Telegram](https://t.me/riyhs);**
+- 💻 **More about me in [riyaldi.com](https://riyaldi.com/)**
 
 &nbsp;
 
