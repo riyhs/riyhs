@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/riyaldi-h-2217b8134/)](https://www.linkedin.com/in/riyaldi/) 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/riyhs)](https://t.me/riyhs)
-[![Riyaldi Badge](https://img.shields.io/badge/-riyaldi.com-blue?style=flat-square&logo=Riyaldi&logoColor=white&link=https://riyaldi.com)](https://riyaldi.com) 
+[![Riyaldi Badge](https://img.shields.io/badge/-riyaldi.com-202020?labelColor=141414?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABABAMAAABYR2ztAAAAGFBMVEVHcEw0izcygzU2jzcziDcxfjQ4kDo4jjwr0gBVAAAAB3RSTlMAxlYlR3WQZfj3JAAAALZJREFUSMft1T0KhDAQBeBZxE1rt20IewDBwlYWD+AR7GwHFOb66w+KyybzkGjnVCk+Es28IUR3HatirTwAXrIVIyA9At49foBAwAgIBBwNxA/stILgMYMqDMj/ETtgrgTNSUAASJR7mEGn3CTsxYFutrGJ4thU5wAwnKwgsPREgPTZHEGJgFF/065paBBgBRitFxNIESAtD3YL9YCANt3LGVn0dP+dUX+cey9BScalq+/n6+T6Aph96pMyHUmkAAAAAElFTkSuQmCC&link=https://riyaldi.com)](https://riyaldi.com) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:riyaldi.dev@gmail.com)](mailto:riyaldi.dev@gmail.com) 
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-green?style=flat-square&logo=Hackerrank&logoColor=white&link=https://hackerrank.com/riyhs)](https://hackerrank.com/riyhs)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/riyhs_/)](https://instagram.com/riyhs_)
