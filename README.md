@@ -11,6 +11,7 @@
 I'm Riyaldi Hasan Setiawan, Software Engineering Student at SMK Muhammadiyah 1 Sukoharjo, interested about Programming, deeply in Android Development & Competitive Programming, more about me in [riyaldi.com](https://riyaldi.com/)
 
 &nbsp;
+
 **Talking about Personal Stuffs:**
 
 - 🌱 I’m currently learning Android Development | Kotlin & Competitive Programming | Kotlin; 
@@ -19,5 +20,6 @@ I'm Riyaldi Hasan Setiawan, Software Engineering Student at SMK Muhammadiyah 1 S
 - 💻 More about me in [riyaldi.com](https://riyaldi.com/)
 
 &nbsp;
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=riyhs&theme=tokyonight&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riyhs&theme=tokyonight&hide_langs_below=1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riyhs&theme=tokyonight&layout=compact)
