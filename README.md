@@ -14,7 +14,7 @@
 
 ### Talking about Personal Stuffs:
 
-- 🌱 **I’m currently learning Android Development | Kotlin & Competitive Programming | Kotlin;** 
+- 🌱 **I’m currently learning Android Development | Competitive Programming | DSA;** 
 - 💬 **Ask me about anything, I am happy to help;**
 - 📫 **How to reach me: [E-Mail](mailto:riyaldi.dev@gmail.com) | [Telegram](https://t.me/riyhs);**
 - 💻 **More about me in [riyaldi.com](https://riyaldi.com/)**
