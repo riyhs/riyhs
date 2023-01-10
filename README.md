@@ -8,18 +8,21 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/riyhs_/)](https://instagram.com/riyhs_)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=riyhs.riyhs)
 
-**I'm Riyaldi Hasan Setiawan, Informatics Student at Universitas Sebelas Maret, interested in Programming, deeply in Android Development & Competitive Programming, but i also interested in Machine Learning, more about me in [riyaldi.vercel.app](https://riyaldi.vercel.app/)**
+I'm Riyaldi Hasan Setiawan, Informatics Student at Universitas Sebelas Maret, interested in Android Development, Competitive Programming, & Machine Learning, more about me in [riyaldi.vercel.app](https://riyaldi.vercel.app/)
 
-&nbsp;
 
 ### Talking about Personal Stuffs:
 
-- 🌱 **I’m currently learning Android Development | Competitive Programming | DSA;** 
-- 💬 **Ask me about anything, I am happy to help;**
-- 📫 **How to reach me: [E-Mail](mailto:riyaldi.dev@gmail.com) | [Telegram](https://t.me/riyhs);**
-- 💻 **More about me in [riyaldi.vercel.app](https://riyaldi.vercel.app/)**
+- 🌱 I’m currently learning Android Development | Competitive Programming | Machine Learning
+- 💬 Ask me about anything, I am happy to help
+- 📫 How to reach me: [E-Mail](mailto:riyaldi.dev@gmail.com) | [Telegram](https://t.me/riyhs)
+- 💻 More about me in [riyaldi.vercel.app](https://riyaldi.vercel.app/)
 
 &nbsp;
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=riyhs&theme=tokyonight&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riyhs&theme=tokyonight&layout=compact)
+<a href="https://github.com/riyhs">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=riyhs&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+</a>
+<a href="https://github.com/riyhs">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyhs&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+</a>
