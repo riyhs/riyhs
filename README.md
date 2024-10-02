@@ -1,4 +1,4 @@
-## Hi!, I'm Riyaldi Hasan, Android Developer 👋
+## Hi!, I'm Riyaldi Hasan, CS Student 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/riyaldi-h-2217b8134/)](https://www.linkedin.com/in/riyaldi/) 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?logo=telegram&logoColor=white&link=https://t.me/riyhs)](https://t.me/riyhs)
@@ -8,12 +8,12 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/riyhs_/)](https://instagram.com/riyhs_)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=riyhs.riyhs)
 
-I'm Riyaldi Hasan Setiawan, Informatics Student at Universitas Sebelas Maret, interested in Android Development, Competitive Programming, & Machine Learning, more about me in [riyaldi.vercel.app](https://riyaldi.vercel.app/)
+I'm Riyaldi Hasan Setiawan, Informatics Student at Universitas Sebelas Maret, interested in Machine Learning, Android Development, and Competitive Programming, more about me in [riyaldi.vercel.app](https://riyaldi.vercel.app/)
 
 
 ### Talking about Personal Stuffs:
 
-- 🌱 I’m currently learning Android Development | Competitive Programming | Machine Learning
+- 🌱 I’m currently learning Machine Learning | Android Development | Competitive Programming
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: [E-Mail](mailto:riyaldi.dev@gmail.com) | [Telegram](https://t.me/riyhs)
 - 💻 More about me in [riyaldi.vercel.app](https://riyaldi.vercel.app/)
