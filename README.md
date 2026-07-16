@@ -8,7 +8,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/riyhs_/)](https://instagram.com/riyhs_)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=riyhs.riyhs)
 
-I'm Riyaldi Hasan Setiawan, Informatics Student at Universitas Sebelas Maret, interested in Machine Learning, Android Development, and Competitive Programming, more about me in [riyaldi.vercel.app](https://riyaldi.vercel.app/)
+I'm Riyaldi Hasan Setiawan, Informatics Student at Universitas Sebelas Maret, interested in Machine Learning, Android Development, and Competitive Programming, more about me in [riyaldi.dev](https://riyaldi.dev/)
 
 
 ### Talking about Personal Stuffs:
