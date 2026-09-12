@@ -1,36 +1,33 @@
-## Hi!, I'm Riyaldi Hasan, CS Student 👋
+# Hi, I'm Riyaldi Hasan Setiawan 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/riyaldi-h-2217b8134/)](https://www.linkedin.com/in/riyaldi/) 
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?logo=telegram&logoColor=white&link=https://t.me/riyhs)](https://t.me/riyhs)
-[![Riyaldi Badge](https://img.shields.io/badge/-riyaldi.vercel.app-202020?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABABAMAAABYR2ztAAAAGFBMVEVHcEw0izcygzU2jzcziDcxfjQ4kDo4jjwr0gBVAAAAB3RSTlMAxlYlR3WQZfj3JAAAALZJREFUSMft1T0KhDAQBeBZxE1rt20IewDBwlYWD+AR7GwHFOb66w+KyybzkGjnVCk+Es28IUR3HatirTwAXrIVIyA9At49foBAwAgIBBwNxA/stILgMYMqDMj/ETtgrgTNSUAASJR7mEGn3CTsxYFutrGJ4thU5wAwnKwgsPREgPTZHEGJgFF/065paBBgBRitFxNIESAtD3YL9YCANt3LGVn0dP+dUX+cey9BScalq+/n6+T6Aph96pMyHUmkAAAAAElFTkSuQmCC&link=https://riyaldi.com)](https://riyaldi.vercel.app) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?logo=Gmail&logoColor=white&link=mailto:riyaldi.dev@gmail.com)](mailto:riyaldi.dev@gmail.com) 
-[![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-green?logo=Hackerrank&logoColor=white&link=https://hackerrank.com/riyhs)](https://hackerrank.com/riyhs)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/riyhs_/)](https://instagram.com/riyhs_)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=riyhs.riyhs)
+**CS @ UNS · Full-stack SWE Intern @ Takodam**
 
-I'm Riyaldi Hasan Setiawan, Informatics Student at Universitas Sebelas Maret, interested in Machine Learning, Android Development, and Competitive Programming, more about me in [riyaldi.dev](https://riyaldi.dev/)
+I build ERP and logistics software. As a Full-stack SWE Intern at Takodam, I'm working on ProCost, a procurement & ERP platform used daily in operations, 29+ user stories shipped. Now focusing on my undergraduate thesis in computer vision (image segmentation), CS at Universitas Sebelas Maret.
 
+**Now:**
+- Intern, building ProCost (procurement & ERP platform) at Takodam
+- Thesis: computer vision, image classification
+- Side: small tools I work on for fun (see repos below)
 
-### Talking about Personal Stuffs:
+## What I build
 
-- 🌱 I’m currently learning Machine Learning | Android Development | Competitive Programming
-- 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: [E-Mail](mailto:riyaldi.dev@gmail.com) | [Telegram](https://t.me/riyhs)
-- 💻 More about me in [riyaldi.vercel.app](https://riyaldi.vercel.app/)
+**Web (full-stack)**: Django + React, built and deployed on servers
+- P!NGFEST, competitive programming event platform ([fe](https://github.com/riyhs/pingfest-fe) + [be](https://github.com/riyhs/pingfest-be))
+- [riyaldi.dev](https://github.com/riyhs/personal-website), personal site
+- ProCost, production procurement ERP at Takodam (private repo)
 
-&nbsp;
+**Android (Kotlin)**
+- [Movie Catalogue](https://github.com/riyhs/Android-Movie-Catalogue) · [GameKuy](https://github.com/riyhs/GameKuy-Game-Explorer-App) · [NutriVision](https://github.com/riyhs/NutriVision)
 
-<table>
-  <tr>
-    <td align="left">
-      <a href="https://github.com/riyhs">
-        <img align="left" src="https://github-readme-stats.vercel.app/api?username=riyhs&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-      </a>
-    </td>
-    <td align="right">
-      <a href="https://github.com/riyhs">
-        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyhs&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-</table>
+**ML**: trained & deployed models (Google Bangkit)
+- [Bangkit capstone](https://github.com/AritmaPlay/aritmaplay-ml-api) · [rock-paper-scissors](https://github.com/riyhs/ml-rock-paper-scissors)
+
+**AI agents**: actively using AI agents in my dev workflow
+- [OxideTrack](https://github.com/riyhs/OxideTrack), OpenCode token usage tracker (Rust) · [token-calc](https://github.com/riyhs/token-calc)
+
+## Contact
+
+- Email: riyaldi.dev@gmail.com
+- LinkedIn: [linkedin.com/in/riyaldi](https://www.linkedin.com/in/riyaldi/)
+- Web: [riyaldi.dev](https://www.riyaldi.dev)
+- CV: [Riyaldi_Hasan_Setiawan_CV.pdf](https://www.riyaldi.dev/docs/Riyaldi_Hasan_Setiawan_CV.pdf)
