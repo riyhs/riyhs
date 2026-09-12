@@ -6,7 +6,7 @@ I build ERP and logistics software. As a Full-stack SWE Intern at Takodam, I'm w
 
 **Now:**
 - Intern, building ProCost (procurement & ERP platform) at Takodam
-- Thesis: computer vision, image classification
+- Thesis: computer vision, image segmentation
 - Side: small tools I work on for fun (see repos below)
 
 ## What I build
