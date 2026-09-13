@@ -31,4 +31,4 @@ I build ERP and logistics software. As a Full-stack SWE Intern at Takodam, I'm w
 
 ## Contact
 
-[riyaldi.dev](mailto:riyaldi.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/riyaldi/) · [Web](https://www.riyaldi.dev) · [CV](https://www.riyaldi.dev/docs/Riyaldi_Hasan_Setiawan_CV.pdf)
+[riyaldi.dev@gmail.com](mailto:riyaldi.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/riyaldi/) · [www.riyaldi.dev](https://www.riyaldi.dev) · [CV](https://www.riyaldi.dev/docs/Riyaldi_Hasan_Setiawan_CV.pdf)
