@@ -11,19 +11,23 @@ I build ERP and logistics software. As a Full-stack SWE Intern at Takodam, I'm w
 
 ## What I build
 
-**Web (full-stack)**: Django + React, built and deployed on servers
-- P!NGFEST, competitive programming event platform ([fe](https://github.com/riyhs/pingfest-fe) + [be](https://github.com/riyhs/pingfest-be))
-- [riyaldi.dev](https://github.com/riyhs/personal-website), personal site
-- ProCost, production procurement ERP at Takodam (private repo)
+**Web (full-stack)**: built and deployed on servers
+- P!NGFEST: university IT-event platform, led a 4-person team that built and deployed it to serve 70+ concurrent teams nationwide, keeping it responsive and secure through heavy live-event traffic ([pingfest-fe](https://github.com/riyhs/pingfest-fe), [pingfest-be](https://github.com/riyhs/pingfest-be))
+- riyaldi.dev: personal portfolio site, built with TypeScript and deployed live ([personal-website](https://github.com/riyhs/personal-website))
+- ProCost: production procurement system for Takodam, built with Django + React and running on an internal server (private repo)
 
 **Android (Kotlin)**
-- [Movie Catalogue](https://github.com/riyhs/Android-Movie-Catalogue) · [GameKuy](https://github.com/riyhs/GameKuy-Game-Explorer-App) · [NutriVision](https://github.com/riyhs/NutriVision)
+- Movie Catalogue: movie catalog app, Clean Architecture, external API, base + consumer builds ([Android-Movie-Catalogue](https://github.com/riyhs/Android-Movie-Catalogue))
+- GameKuy: game-exploration app for browsing and discovering games ([GameKuy-Game-Explorer-App](https://github.com/riyhs/GameKuy-Game-Explorer-App))
+- NutriVision: Kotlin app that estimates nutrition from a photo of a meal ([NutriVision](https://github.com/riyhs/NutriVision))
 
 **ML**: trained & deployed models (Google Bangkit)
-- [Bangkit capstone](https://github.com/AritmaPlay/aritmaplay-ml-api) · [rock-paper-scissors](https://github.com/riyhs/ml-rock-paper-scissors)
+- Bangkit capstone: Google Bangkit capstone, end-to-end ML from model training to in-app deployment ([aritmaplay-ml-api](https://github.com/AritmaPlay/aritmaplay-ml-api), [AritmaPlay App](https://github.com/AritmaPlay))
+- rock-paper-scissors: image classification model trained on RPS photos, as a Jupyter notebook ([ml-rock-paper-scissors](https://github.com/riyhs/ml-rock-paper-scissors))
 
 **AI agents**: actively using AI agents in my dev workflow
-- [OxideTrack](https://github.com/riyhs/OxideTrack), OpenCode token usage tracker (Rust) · [token-calc](https://github.com/riyhs/token-calc)
+- OxideTrack: token usage tracker for the OpenCode AI agent, written in Rust ([OxideTrack](https://github.com/riyhs/OxideTrack))
+- token-calc: LLM token calculator, live at tokencalc.riyaldi.dev ([token-calc](https://github.com/riyhs/token-calc))
 
 ## Contact
 
